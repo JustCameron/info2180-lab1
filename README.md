@@ -1,2 +1,2 @@
 # info2180-lab1
-First Web Dev Lab
+This is Lab 1 for Cameron Meeks
